@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  input {
+      width: 50px;
+      border: 1px solid black;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
